@@ -1,0 +1,4 @@
+[package]
+name = "superc4"
+version = "0.1.0"
+authors = ["Alexandre Bury <alexandre.bury@gmail.com>"]
